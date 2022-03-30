@@ -22,20 +22,20 @@ body {
 .small-6 {width: 50%;}
 
 
-/* header rules */
 top-container {
-    background-color: #f1f1f1;
+    background-color: #fffefe;
     padding: 30px;
     text-align: center;
+    
     
 
 }
 header {
     padding: 30px 16px;
-    background: #555;
+    background: rgb(160, 158, 158);
     color: #f1f1f1;
     position: sticky; top: 0;
-    outline: 5 green 5em;
+    outline: 5 green 25em;
 }
 .center {
     display: block;
