@@ -133,7 +133,10 @@ body {
 .small-6 {width: 50%;}
 
 
-
+.description {
+  text-align: center;
+  text-indent: px;
+}
 
 top-container {
     background-color: #fffefe;
@@ -190,14 +193,3 @@ footer ul {
 footer li {padding-bottom: .3rem;}
 
 
-<script>
-window.onscroll = function() {myFunction()};
-
-</script>
-
-
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
