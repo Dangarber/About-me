@@ -84,7 +84,7 @@ body {
   
       border-radius: 10px;
   
-      widht: 100%;
+      width: 100%;
       transform-style: preserve-3d;
   }
   
@@ -191,5 +191,3 @@ footer ul {
      
 }
 footer li {padding-bottom: .3rem;}
-
-
